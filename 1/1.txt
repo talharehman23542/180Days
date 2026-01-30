@@ -1,0 +1,6 @@
+Day 1: Introduction to Web Development d
+•	What is HTML, CSS, JavaScript? d
+•	How the web works (clients, servers, browsers) d
+•	Set up VS Code, install extensions (Live Server, Prettier) d
+•	Create your first HTML file d
+•	Task: Build a simple "Hello World" page d
