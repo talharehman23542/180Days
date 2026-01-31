@@ -1,0 +1,5 @@
+Day 2: HTML Document Structure
+•	DOCTYPE, html, head, body tags d
+•	Meta tags and their importance d
+•	Page titles and favicon d
+•	Task: Create a proper HTML template d
