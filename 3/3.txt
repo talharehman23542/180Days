@@ -1,0 +1,5 @@
+Day 3: Text Content Tags
+•	Headings (h1-h6) d 
+•	Paragraphs, line breaks d 
+•	Strong, em, mark, small tags d 
+•	Task: Build a blog post layout d 
