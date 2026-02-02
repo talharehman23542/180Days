@@ -1,0 +1,6 @@
+Day 4: Links and Navigation 
+•	Anchor tags and href attribute d 
+•	Absolute vs relative URLs d 
+•	Internal page links (#sections) d
+•	Opening links in new tabs d
+•	Task: Create a multi-page website with navigation d
