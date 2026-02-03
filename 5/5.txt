@@ -1,0 +1,5 @@
+Day 5: Lists and Tables
+•	Ordered and unordered lists
+•	Nested lists
+•	Tables (table, tr, td, th, thead, tbody)
+•	Task: Build a restaurant menu with tables
