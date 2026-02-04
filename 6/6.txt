@@ -1,0 +1,5 @@
+Day 6: Forms - Part 1
+•	Form element and action/method
+•	Input types (text, email, password, number)
+•	Labels and placeholder text
+•	Task: Create a signup form
