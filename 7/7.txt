@@ -1,0 +1,5 @@
+Day 7: Forms - Part 2 & Images
+•	Textarea, select, radio, checkbox
+•	Image tag and alt attribute
+•	Form validation attributes (required, min, max)
+•	Task: Build a complete contact form + add images to your portfolio
