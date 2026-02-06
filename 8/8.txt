@@ -1,0 +1,6 @@
+Day 8: CSS Basics
+•	What is CSS and how to include it
+•	Inline, internal, external CSS
+•	Selectors (element, class, id)
+•	Color (names, hex, rgb, rgba)
+•	Task: Style your previous HTML pages
