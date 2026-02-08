@@ -1,0 +1,6 @@
+Day 9: Text Styling
+•	Font family, size, weight
+•	Text align, decoration, transform
+•	Line height, letter spacing
+•	Google Fonts
+•	Task: Create a styled typography page

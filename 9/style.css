@@ -1,0 +1,18 @@
+body{
+   background-color: black;
+   color: rgb(157, 168, 177);
+   text-align: center;
+}
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 900;
+  text-decoration: underline;
+}
+p{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: lowercase;
+  line-height: 30px;
+  letter-spacing: 2px;
+}
